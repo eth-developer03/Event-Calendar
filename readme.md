@@ -36,7 +36,7 @@ This will start the application at `http://localhost:5173`.
 2. **Default Redirect URI**:
    - The Google OAuth redirect URI is configured as:
      ```
-     http://localhost:5173/signedin
+     http://localhost:5173/
      ```
 
 ---
